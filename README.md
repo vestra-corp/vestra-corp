@@ -41,7 +41,14 @@ Google Drive alternative, but with Vestra's guarantee on privacy, and security.
 
 ---
 
-### Socials / Links
+### We're hiring!
+Ever see Vestra as some place you'd like to work one day? Apply below, and join the Vestra team!
+
+https://careers.vestra.lol
+
+---
+
+### Links
 - Official Site: https://vestra.lol  
 - Support: https://discord.vestra.lol
 - Corporation Site: https://vestracorp.com
