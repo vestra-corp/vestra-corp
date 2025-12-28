@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.vestra.lol/logo.webp" alt="Vestra Logo" width="180">
+</p>
 
-<!--
-**vestra-corp/vestra-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vestra Corporation</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What we do
+Vestra is a no‑nonsense tech organization building infrastructure, hosting, and tools **for the people, by the people**.
+
+We focus on:
+- Reliable game & Server hosting
+- Fast, Secure networks
+- Simple DRM and dev tools
+- Open, easy to use systems
+
+---
+
+### Divisions
+
+**Vestra Hosting**  
+Affordable game server hosting built for modded and multiplayer titles, without selling privacy.
+
+**Vestra Networks**  
+Garry's Mod and FiveM community servers with performance and uptime first. Hosted by Vestra Hosting
+
+**Vestra DRM**  
+Lightweight DRM that just works without complexity.
+
+**Vestra Drive**
+Google Drive alternative, but with Vestra's guarantee on privacy, and security.
+
+---
+
+### Core Values
+- Performance > Hype  
+- Transparency & Simplicity  
+- Community first  
+- Do it right or don’t do it
+
+---
+
+### Socials / Links
+- Official Site: https://vestra.lol  
+- Support: https://discord.vestra.lol
+- Corporation Site: https://vestracorp.com
+
+---
