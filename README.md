@@ -28,7 +28,7 @@ Garry's Mod and FiveM community servers with performance and uptime first. Hoste
 **Vestra DRM**  
 Lightweight DRM that just works without complexity.
 
-**Vestra Drive**
+**Vestra Drive**  
 Google Drive alternative, but with Vestra's guarantee on privacy, and security.
 
 ---
